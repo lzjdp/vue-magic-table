@@ -8,7 +8,7 @@
 --> 
 ### 介绍
     
-<font size=3>vue-magic-table是一个基于</font>
+<font size=3>vue-magic-table是一个基于vue2开发的表格组件</font>
 
 
   
